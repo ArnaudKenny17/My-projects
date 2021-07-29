@@ -1,0 +1,13 @@
+C:\Users\Arnaud\source\repos\coin\coin\bin\Debug\netcoreapp3.1\coin.exe
+C:\Users\Arnaud\source\repos\coin\coin\bin\Debug\netcoreapp3.1\coin.deps.json
+C:\Users\Arnaud\source\repos\coin\coin\bin\Debug\netcoreapp3.1\coin.runtimeconfig.json
+C:\Users\Arnaud\source\repos\coin\coin\bin\Debug\netcoreapp3.1\coin.runtimeconfig.dev.json
+C:\Users\Arnaud\source\repos\coin\coin\bin\Debug\netcoreapp3.1\coin.dll
+C:\Users\Arnaud\source\repos\coin\coin\bin\Debug\netcoreapp3.1\coin.pdb
+C:\Users\Arnaud\source\repos\coin\coin\obj\Debug\netcoreapp3.1\coin.csproj.AssemblyReference.cache
+C:\Users\Arnaud\source\repos\coin\coin\obj\Debug\netcoreapp3.1\coin.AssemblyInfoInputs.cache
+C:\Users\Arnaud\source\repos\coin\coin\obj\Debug\netcoreapp3.1\coin.AssemblyInfo.cs
+C:\Users\Arnaud\source\repos\coin\coin\obj\Debug\netcoreapp3.1\coin.csproj.CoreCompileInputs.cache
+C:\Users\Arnaud\source\repos\coin\coin\obj\Debug\netcoreapp3.1\coin.dll
+C:\Users\Arnaud\source\repos\coin\coin\obj\Debug\netcoreapp3.1\coin.pdb
+C:\Users\Arnaud\source\repos\coin\coin\obj\Debug\netcoreapp3.1\coin.genruntimeconfig.cache
